@@ -8,7 +8,7 @@ git clone https://github.com/ymikhailov/pygame-warmup.git
 ```
 
 
-## How to setup virtul environment
+## How to setup virtual environment
 
 Prerequisites:
 - python3
